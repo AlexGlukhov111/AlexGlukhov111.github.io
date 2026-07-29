@@ -1,0 +1,35 @@
+{
+    "name": "ФК «Сатурн» — Твоя орбита",
+    "short_name": "Сатурн",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#050A12",
+    "theme_color": "#050A12",
+    "description": "Матчи, новости, состав и сервисы ФК «Сатурн» Раменское.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
